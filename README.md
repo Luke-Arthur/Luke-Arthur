@@ -12,21 +12,23 @@ Enso encapsulates the essence of a coder's zen-like approach to software creatio
 ### 💗 The Heart of Enso
 My GitHub profile is an evolving portfolio, a testament to my skills and journey in the realm of computer science and programming. Its core concepts include:
 
-🖥️ Programming Languages: Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  
+### 🖥️ Programming Languages
+Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  
 
-💼 Version Control: Git
+### 💼 Version Control
+Git
 
-📫 Contact Me
+### 📫 Contact Me
 You can connect with me through the following channels:
 
 📧 Email: [click here](lm678@uowmail.edu.au)  
 
 💼 LinkedIn: [Luke Moorhouse](www.linkedin.com/in/lukemoorhouse)  
 
-🌱 Always Learning  
+### 🌱 Always Learning  
 I believe in the lifelong pursuit of knowledge and continuously exploring new technologies to enhance my coding skills. My GitHub profile, Enso, is a living testament to this philosophy, and it evolves as I learn and grow.
 
-🤝 Let's Collaborate
+### 🤝 Let's Collaborate
 I'm open to collaboration on projects that align with the spirit of Enso—embracing imperfections, pursuing excellence, and turning code into art. If you have an exciting project or idea, please don't hesitate to reach out.
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀

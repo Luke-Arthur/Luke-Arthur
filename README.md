@@ -19,9 +19,9 @@ My GitHub profile is an evolving portfolio, a testament to my skills and journey
 📫 Contact Me
 You can connect with me through the following channels:
 
-📧 Email: [click here](lm678@uowmail.edu.au)
-💼 LinkedIn: [Luke Moorhouse](www.linkedin.com/in/lukemoorhouse)
-🌱 Always Learning
+📧 Email: [click here](lm678@uowmail.edu.au)  
+💼 LinkedIn: [Luke Moorhouse](www.linkedin.com/in/lukemoorhouse)  
+🌱 Always Learning  
 I believe in the lifelong pursuit of knowledge and continuously exploring new technologies to enhance my coding skills. My GitHub profile, Enso, is a living testament to this philosophy, and it evolves as I learn and grow.
 
 🤝 Let's Collaborate

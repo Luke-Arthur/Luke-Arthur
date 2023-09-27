@@ -1,4 +1,4 @@
-# Enso by MrMoorhouse
+# Enso by MrMoorhouse!     [](https://komarev.com/ghpvc/?username=MrMoorhouse&show_icons=true&color=green)
 👋 Hello, World!
 Welcome to my GitHub profile, where coding meets artistry! I'm Luke Moorhouse, a passionate coder with a deep appreciation for the art of software development. My GitHub profile, Enso, represents a digital canvas where I embrace the imperfections of code as essential elements of my creative journey in the world of technology.
 
@@ -28,4 +28,4 @@ I'm open to collaboration on projects that align with the spirit of Enso—embra
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀
 
 ![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
-![](https://komarev.com/ghpvc/?username=MrMoorhouse&show_icons=true&color=green)
+

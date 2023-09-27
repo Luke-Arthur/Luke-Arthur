@@ -28,4 +28,4 @@ I'm open to collaboration on projects that align with the spirit of Enso—embra
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀
 
 ![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
-
+![](https://komarev.com/ghpvc/?username=MrMoorhouse&color=green)

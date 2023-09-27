@@ -12,11 +12,9 @@ Enso encapsulates the essence of a coder's zen-like approach to software creatio
 #### The Heart of Enso
 My GitHub profile is an evolving portfolio, a testament to my skills and journey in the realm of computer science and programming. Its core concepts include:
 
-#### 🖥️ Programming Languages
-Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  
+#### 🖥️ Programming Languages: Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  
 
-#### 💼 Version Control
-Git
+#### 💼 Version Control: Git
 
 #### 📫 Contact Me
 You can connect with me through the following channels:

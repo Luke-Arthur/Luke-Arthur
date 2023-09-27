@@ -3,7 +3,7 @@
 ### 👋 Hello, World!
 Welcome to my GitHub profile, where coding meets artistry! I'm Luke Moorhouse, a passionate coder with a deep appreciation for the art of software development. My GitHub profile, Enso, represents a digital canvas where I embrace the imperfections of code as essential elements of my creative journey in the world of technology.
 
-![Snake Animation](https://github.com/MrMoorhouse/MrMoorhouse/blob/output/github-contribution-grid-snake.svg)
+
 
 *** 
 ### What Enso Represents

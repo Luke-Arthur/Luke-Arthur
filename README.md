@@ -32,6 +32,6 @@ I believe in the lifelong pursuit of knowledge and continuously exploring new te
 I'm open to collaboration on projects that align with the spirit of Enso—embracing imperfections, pursuing excellence, and turning code into art. If you have an exciting project or idea, please don't hesitate to reach out.
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀
----
+*** 
 ![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
 

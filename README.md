@@ -3,6 +3,7 @@
 ### 👋 Hello, World!
 Welcome to my GitHub profile, where coding meets artistry! I'm Luke Moorhouse, a passionate coder with a deep appreciation for the art of software development. My GitHub profile, Enso, represents a digital canvas where I embrace the imperfections of code as essential elements of my creative journey in the world of technology.
 
+---
 #### What Enso Represents
 🎨 Digital Artistry: My GitHub profile is more than just a collection of repositories; it's a reflection of my coder's mindset. Just as an artist's brushstroke contributes to a masterpiece, every line of code on my profile embodies the potential for digital artistry.
 
@@ -30,6 +31,6 @@ I believe in the lifelong pursuit of knowledge and continuously exploring new te
 I'm open to collaboration on projects that align with the spirit of Enso—embracing imperfections, pursuing excellence, and turning code into art. If you have an exciting project or idea, please don't hesitate to reach out.
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀
-
+---
 ![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
 

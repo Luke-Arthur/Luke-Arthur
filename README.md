@@ -1,4 +1,4 @@
-#Enso by MrMoorhouse
+# Enso ## by MrMoorhouse
 👋 Hello, World!
 Welcome to my GitHub profile, where coding meets artistry! I'm Luke Moorhouse, a passionate coder with a deep appreciation for the art of software development. My GitHub profile, Enso, represents a digital canvas where I embrace the imperfections of code as essential elements of my creative journey in the world of technology.
 
@@ -17,8 +17,8 @@ My GitHub profile is an evolving portfolio, a testament to my skills and journey
 📫 Contact Me
 You can connect with me through the following channels:
 
-📧 Email: lm678@uowmail.edu.au
-💼 LinkedIn: Luke Moorhouse www.linkedin.com/in/lukemoorhouse
+📧 Email: [click here](lm678@uowmail.edu.au)
+💼 LinkedIn: [Luke Moorhouse](www.linkedin.com/in/lukemoorhouse)
 🌱 Always Learning
 I believe in the lifelong pursuit of knowledge and continuously exploring new technologies to enhance my coding skills. My GitHub profile, Enso, is a living testament to this philosophy, and it evolves as I learn and grow.
 

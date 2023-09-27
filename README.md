@@ -35,3 +35,8 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 *** 
 ![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

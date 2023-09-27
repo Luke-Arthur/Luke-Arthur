@@ -9,7 +9,7 @@ Welcome to my GitHub profile, where coding meets artistry! I'm Luke Moorhouse, a
 ### 🖌️ Zen in Coding
 Enso encapsulates the essence of a coder's zen-like approach to software creation. It's a testament to the acceptance of imperfections as crucial stepping stones toward computational excellence.
 
-### 🚀 The Heart of Enso
+### 💗 The Heart of Enso
 My GitHub profile is an evolving portfolio, a testament to my skills and journey in the realm of computer science and programming. Its core concepts include:
 
 🖥️ Programming Languages: Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  

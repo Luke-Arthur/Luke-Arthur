@@ -23,7 +23,11 @@ Feel free to reach out if you're interested in connecting or discussing potentia
 
 📧 Email: [click here](lm678@uowmail.edu.au)  
 
-💼 LinkedIn:  [click here](www.linkedin.com/in/lukemoorhouse)  
+💼 LinkedIn:  [click here](www.linkedin.com/in/lukemoorhouse)
+
+🎮 Discord: debug.doug
+
+*Note: To connect on Discord, please add me as a friend using the username above!*
 
 #### Committed to Growth  
 I'm dedicated to lifelong learning and constantly seek out new technologies and methodologies to sharpen my coding skills. My GitHub profile is a testament to this commitment, showcasing my journey through the tech world.

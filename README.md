@@ -1,36 +1,34 @@
-# Enso by MrMoorhouse!  <img align="right" src="https://komarev.com/ghpvc/?username=MrMoorhouse&show_icons=true&color=blue">
+# Debug Doug's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=DebugDoug&show_icons=true&color=blue">
 
-### 👋 Hello, World!
-Welcome to my GitHub profile, I'm Luke Moorhouse, a passionate coder with a deep appreciation for the art of software development. My GitHub profile, Enso, represents a digital canvas where I embrace the imperfections of code as essential elements of my creative journey in the world of technology.
+### 👋 Hey there!
+Welcome to my GitHub profile, I'm Doug, a dedicated developer with a strong focus on efficiency and problem-solving. My profile serves as a hub for my projects and collaborations, showcasing my commitment to quality and continuous improvement in software development.
 
+***
 
-*** 
-### What Enso Represents
+### My GitHub Journey
  
-My GitHub profile is more than just a collection of repositories; it's a reflection of my coder's mindset. My passion for creating tangible assests that I can develop and work on to constantly improve my skills.
+Here, you'll find a curated portfolio of my work, representing my ongoing progression in computer science and software engineering.
 
-#### The Heart of Enso
-This profile is an evolving portfolio, a testament to the knowledge I have gained in the realm of computer science and programming.
+#### Core Focus
+This profile is a dynamic display of my technical skills, highlighting the contributions I've made and the challenges I've tackled.
 
-*** 
-#### 🖥️ Programming Languages: Java, Python, C++, HTML, CSS, JS, SQL, NoSQL - MongoDB.  
+***
 
-#### Version Control: Git
+#### 🖥️ Programming Skills: Java, Python, C++, HTML, CSS, JavaScript, SQL, NoSQL (MongoDB).
 
-#### Contact Me
-You can connect with me through the following channels:
+#### Version Control: Proficient with Git
+
+#### Let's Connect
+Feel free to reach out if you're interested in connecting or discussing potential projects:
 
 📧 Email: [click here](lm678@uowmail.edu.au)  
 
 💼 LinkedIn: [Luke Moorhouse](www.linkedin.com/in/lukemoorhouse)  
 
-#### Always Learning  
-I believe in the lifelong pursuit of knowledge and continuously exploring new technologies to enhance my coding skills. My GitHub profile, Enso, is a living testament to this philosophy, and it evolves as I learn and grow.
+#### Committed to Growth  
+I'm dedicated to lifelong learning and constantly seek out new technologies and methodologies to sharpen my coding skills. My GitHub profile is a testament to this commitment, showcasing my journey through the tech world.
 
-#### 🤝 Let's Collaborate
-I'm open to collaboration on projects that align with the spirit of Enso—embracing imperfections, pursuing excellence, and turning code into art. If you have an exciting project or idea, please don't hesitate to reach out.
+Thanks for stopping by my GitHub profile! Dive into my repositories to see the work I'm passionate about. Let's make something great together! 🚀
+***
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and witness the journey of transforming imperfections into digital artistry. Let's create amazing things together! 🚀
-*** 
-![Enso GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMoorhouse&show_icons=true&theme=dark)
-
+![Debug Doug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebugDoug&show_icons=true&theme=dark)

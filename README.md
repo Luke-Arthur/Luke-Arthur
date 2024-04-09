@@ -35,4 +35,4 @@ I'm dedicated to lifelong learning and constantly seek out new technologies and 
 Thanks for stopping by my GitHub profile! Dive into my repositories to see the work I'm passionate about. Let's make something great together! 🚀
 ***
 
-![Debug Doug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebugDoug&show_icons=true&theme=dark)
+![Debug Doug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debug-Doug&show_icons=true&theme=dark)

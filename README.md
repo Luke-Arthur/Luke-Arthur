@@ -1,7 +1,7 @@
-# Debug Doug's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=DebugDoug&show_icons=true&color=blue">
+# Luke's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=DebugDoug&show_icons=true&color=blue">
 
 ### 👋 Hey there!
-Welcome to my GitHub profile, I'm Doug, a dedicated developer with a strong focus on efficiency and problem-solving. My profile serves as a hub for my projects and collaborations, showcasing my commitment to quality and continuous improvement in software development.
+Welcome to my GitHub profile, I'm Luke, a dedicated developer with a strong focus on efficiency and problem-solving. My profile serves as a hub for my projects and collaborations, showcasing my commitment to quality and continuous improvement in software development.
 
 ***
 
@@ -25,7 +25,7 @@ Feel free to reach out if you're interested in connecting or discussing potentia
 
 💼 LinkedIn:  [click here](www.linkedin.com/in/lukemoorhouse)
 
-🎮 Discord: debug.doug
+🎮 Discord: mischief._.managed
 
 *Note: To connect on Discord, please add me as a friend using the username above!*
 
@@ -35,4 +35,4 @@ I'm dedicated to lifelong learning and constantly seek out new technologies and 
 Thanks for stopping by my GitHub profile! Dive into my repositories to see the work I'm passionate about. Let's make something great together! 🚀
 ***
 
-![Debug Doug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debug-Doug&show_icons=true&theme=dark)
+![Lukes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debug-Doug&show_icons=true&theme=dark)

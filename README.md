@@ -1,4 +1,4 @@
-# Luke's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=DebugDoug&show_icons=true&color=blue">
+# Luke's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=Luke-Arthur&show_icons=true&color=blue">
 
 ### 👋 Hey there!
 Welcome to my GitHub profile, I'm Luke Arthur, a dedicated developer with a strong focus on efficiency and problem-solving. My profile serves as a hub for my projects and collaborations, showcasing my commitment to quality and continuous improvement in software development.
@@ -35,4 +35,4 @@ I'm dedicated to lifelong learning and constantly seek out new technologies and 
 Thanks for stopping by my GitHub profile! Dive into my repositories to see the work I'm passionate about. Let's make something great together! 🚀
 ***
 
-![Lukes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debug-Doug&show_icons=true&theme=dark)
+![Lukes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luke-Arthur&show_icons=true&theme=dark)

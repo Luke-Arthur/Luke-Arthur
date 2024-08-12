@@ -23,7 +23,7 @@ Feel free to reach out if you're interested in connecting or discussing potentia
 
 📧 Email: [click here](lm678@uowmail.edu.au)  
 
-💼 LinkedIn:  [click here](www.linkedin.com/in/lukemoorhouse)
+💼 LinkedIn:  [click here](https://www.linkedin.com/in/lukemoorhouse/)
 
 🎮 Discord: mischief._.managed
 

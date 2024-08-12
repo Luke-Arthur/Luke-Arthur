@@ -21,7 +21,7 @@ This profile is a dynamic display of my technical skills, highlighting the contr
 #### Let's Connect
 Feel free to reach out if you're interested in connecting or discussing potential projects:
 
-📧 Email: [click here](lm678@uowmail.edu.au)  
+📧 Email: [click here](mailto:lm678@uowmail.edu.au)  
 
 💼 LinkedIn:  [click here](https://www.linkedin.com/in/lukemoorhouse/)
 

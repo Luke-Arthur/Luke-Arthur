@@ -25,7 +25,7 @@ Feel free to reach out if you're interested in connecting or discussing potentia
 
 💼 LinkedIn:  [click here](https://www.linkedin.com/in/lukemoorhouse/)
 
-🔗 Portfolio: [click here](https://https://www.lukedevhub.tech/)
+🔗 Portfolio: [click here](https://www.lukedevhub.tech/)
 
 🎮 Discord: mischief._.managed
 

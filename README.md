@@ -1,22 +1,42 @@
 # Luke Arthur's GitHub Profile  <img align="right" src="https://komarev.com/ghpvc/?username=Luke-Arthur&show_icons=true&color=blue">
 
-### 👋 Hey there!
-Welcome to my GitHub profile, I'm Luke Arthur, a dedicated developer with a strong focus on efficiency and problem-solving. My profile serves as a hub for my projects and collaborations, showcasing my commitment to quality and continuous improvement in software development.
+I’m Luke, a developer focused on building solid, practical software. This profile is where I share personal projects, experiments, and tools I’ve built while sharpening my skills in software engineering.
 
-***
+Most of my projects, summaries, and live demos are linked over at my portfolio: [lukedevhub.tech](https://www.lukedevhub.tech). This GitHub is more of a behind-the-scenes look — a mix of compsci course work, personal builds, and general coding practice. From prototypes and MVPs to full-stack apps, it’s all in here.
 
-### My GitHub Journey
- 
-Here, you'll find a curated portfolio of my work, representing my ongoing progression in computer science and software engineering.
+---
 
-#### Core Focus
-This profile is a dynamic display of my technical skills, highlighting the contributions I've made and the challenges I've tackled.
+## Tools & Languages
 
-***
+**Favourite language:** Java (bit biased, it's the one I started with)
 
-#### 🖥️ Programming Skills: Java, Python, C++, HTML, CSS, JavaScript, SQL, NoSQL (MongoDB).
+**Other languages I've used:**
+- Python  
+- JavaScript  
+- C++  
+- HTML/CSS  
 
-#### Version Control: Proficient with Git
+**Frameworks I'm familiar with:**
+- Spring Boot (Java)  
+- Flask (Python)  
+
+**Databases I've worked with:**
+- MySQL  
+- SQLite  
+- MongoDB  
+
+**Version control:**
+- Git  
+- Git Bash (CLI)
+
+**Other tools:**
+- Postman  
+- Android Studio  
+
+**Scripting and CLI:**
+- Bash scripting  
+- Batch scripting  
+- Linux command line
 
 #### Let's Connect
 Feel free to reach out if you're interested in connecting or discussing potential projects:
@@ -31,10 +51,6 @@ Feel free to reach out if you're interested in connecting or discussing potentia
 
 *Note: To connect on Discord, please add me as a friend using the username above!*
 
-#### Committed to Growth  
-I'm dedicated to lifelong learning and constantly seek out new technologies and methodologies to sharpen my coding skills. My GitHub profile is a testament to this commitment, showcasing my journey through the tech world.
-
-Thanks for stopping by my GitHub profile! Dive into my repositories to see the work I'm passionate about. Let's make something great together! 🚀
 ***
 
 ![Lukes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luke-Arthur&show_icons=true&theme=dark)

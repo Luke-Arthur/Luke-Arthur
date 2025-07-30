@@ -3,6 +3,7 @@
 I’m Luke, a developer focused on building solid, practical software. This profile is where I share personal projects, experiments, and tools I’ve built while sharpening my skills in software engineering.
 
 Most of my projects, summaries, and live demos are linked over at my portfolio: [lukedevhub.tech](https://www.lukedevhub.tech). This GitHub is more of a behind-the-scenes look. A mix of compsci course work, personal builds, and general coding practice.
+
 ---
 
 ## Tools & Languages
